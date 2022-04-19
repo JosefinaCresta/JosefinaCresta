@@ -3,4 +3,4 @@
 - 📊 Currently learning Data Science.
 - 👾 I’m interested in Artificial Intelligence
 - ⚛️ and enthusiastic about the future of Quantum Technology.
-- 📫 You can reach me [in LinkedIn](www.linkedin.com/in/josefina-cresta) 
+- 📫 You can reach me [in LinkedIn](https://www.linkedin.com/in/josefina-cresta/) 
