@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosefinaCresta
 - 👩🏻‍🔬 Physics degree student,
-- 📊 Currently learning Data Science.
+- 📊 Currently learning Data Science and Full Stack Web development.
 - 👾 I’m interested in Artificial Intelligence
 - ⚛️ and enthusiastic about the future of Quantum Technology.
 - 📫 You can reach me [in LinkedIn](https://www.linkedin.com/in/josefina-cresta/) 
